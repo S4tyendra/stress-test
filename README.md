@@ -124,8 +124,8 @@ The tool provides detailed metrics including:
 ## Warning
 
 This tool is for testing and educational purposes only. Improper use of this tool may be illegal. Always ensure you have permission to test the target system.
-
-**DISCLAIMER**: The author (@s4tyendra) is not responsible for any misuse or damage caused by this tool. Users are solely responsible for ensuring they have proper authorization before conducting any security testing. This tool should only be used in controlled environments with explicit permission.
+> [!CAUTION]
+> **DISCLAIMER**: The author (@s4tyendra) is not responsible for any misuse or damage caused by this tool. Users are solely responsible for ensuring they have proper authorization before conducting any security testing. This tool should only be used in controlled environments with explicit permission.
 
 ## Contributing
 
